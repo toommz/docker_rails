@@ -1,4 +1,4 @@
 
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=some-long-secure-password
-POSTGRES_DB=neighborhood_app_development
+POSTGRES_DB=app_db_development
